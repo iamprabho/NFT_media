@@ -1,4 +1,4 @@
-# NFT Media - Gryffindors
+# NFT Media 
 
 # Social Media in Web3
 
@@ -7,17 +7,13 @@ Web3 social networks are built on the technology that powers Ethereum and other 
 Being built on blockchain, web3 social networks are decentralized and are thus a class of decentralized applications(dApps).
 
 # Features Provided
+->Run on 5ire Blockchain
 -> We provide NFT.Storage as a form of storage. <br/>
 -> We also give users access to a blog. <br/>
 -> We also offer our consumers memberships so they may access the creators' unique stuff. <br/>
 -> Account abstraction using Biconomy. <br/>
 
-# Targeting Bounties
 
--> Filecoin <br/>
--> Biconomy <br/>
--> NFTStorage <br/>
--> Chingari
 
 # Proposing Features:
 
@@ -27,17 +23,16 @@ Being built on blockchain, web3 social networks are decentralized and are thus a
 -> We use Biconomy Social Login and Account Abstraction to avoid the recurrent use of the web3 authentication. <br/>
 -> We allow only a signed user to access the media. <br/>
 -> We use TableLand for the relational queries and the API calls. <br/>
--> We use the Chingari for the vedio media library
+-> We use the 5ire SDK for sustainable development
+
 
 # Tech Stacks
 
 -> NEXTJS <br/>
 -> SOLIDITY <br/>
 -> NFT.storage (includes the ipfs and filecoin) <br/>
--> TableLand <br/>
--> Biconomy <br/>
 -> Truffle <br/>
--> We use Chingari for the vedio media library
+->5ire Chain 
 
 # Installation
 
@@ -66,7 +61,7 @@ backend: <br/>
 
 ![image](https://user-images.githubusercontent.com/88650559/206165934-37ed534f-b2c4-4def-a3e5-230c0e6909a4.png)
 
-# Vedio Link
+# Video Link
 
 Youtube vedio link: https://www.youtube.com/playlist?list=PLrsZIxkQAAZoGEOG8C0_7VVZWdmqamG8W
 
