@@ -7,7 +7,7 @@ Web3 social networks are built on the technology that powers Ethereum and other 
 Being built on blockchain, web3 social networks are decentralized and are thus a class of decentralized applications(dApps).
 
 # Features Provided
-->Run on 5ire Blockchain
+->Run on EVM Blockchain
 -> We provide NFT.Storage as a form of storage. <br/>
 -> We also give users access to a blog. <br/>
 -> We also offer our consumers memberships so they may access the creators' unique stuff. <br/>
@@ -23,7 +23,7 @@ Being built on blockchain, web3 social networks are decentralized and are thus a
 -> We use Biconomy Social Login and Account Abstraction to avoid the recurrent use of the web3 authentication. <br/>
 -> We allow only a signed user to access the media. <br/>
 -> We use TableLand for the relational queries and the API calls. <br/>
--> We use the 5ire SDK for sustainable development
+
 
 
 # Tech Stacks
@@ -32,7 +32,7 @@ Being built on blockchain, web3 social networks are decentralized and are thus a
 -> SOLIDITY <br/>
 -> NFT.storage (includes the ipfs and filecoin) <br/>
 -> Truffle <br/>
-->5ire Chain 
+
 
 # Installation
 
